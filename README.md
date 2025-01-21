@@ -26,4 +26,3 @@ Below is a sample text in English that you can include in your README file to ex
 
 
 
-Feel free to adjust or expand any section to fit your specific use case or to match your personal style.
